@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-explain",
+  "owner": {
+    "name": "nasrat-v"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-explain",
+      "source": ".",
+      "description": "/explain command — plain-English explanations of code, plans, and concepts.",
+      "version": "0.1.0",
+      "category": "documentation"
+    }
+  ]
+}

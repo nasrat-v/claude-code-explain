@@ -1,0 +1,17 @@
+{
+  "name": "claude-code-explain",
+  "version": "0.1.0",
+  "description": "/explain command — turns deep code or dense plans into 3-sentence, no-jargon answers with one concrete example.",
+  "author": {
+    "name": "Valentin Nasraty"
+  },
+  "homepage": "https://github.com/nasrat-v/claude-code-explain",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "explain",
+    "documentation",
+    "plain-english"
+  ]
+}
