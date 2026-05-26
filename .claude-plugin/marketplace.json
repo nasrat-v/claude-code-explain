@@ -6,7 +6,10 @@
   "plugins": [
     {
       "name": "claude-code-explain",
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nasrat-v/claude-code-explain.git"
+      },
       "description": "/explain command — plain-English explanations of code, plans, and concepts.",
       "version": "0.1.0",
       "category": "documentation"
