@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "claude-code-explain",
+      "name": "eli5",
       "source": {
         "source": "url",
         "url": "https://github.com/nasrat-v/claude-code-explain.git"

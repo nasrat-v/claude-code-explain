@@ -1,5 +1,5 @@
 {
-  "name": "claude-code-explain",
+  "name": "eli5",
   "version": "0.1.0",
   "description": "/explain command — turns deep code or dense plans into 3-sentence, no-jargon answers with one concrete example.",
   "author": {

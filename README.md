@@ -54,8 +54,10 @@ Inside Claude Code:
 
 ```text
 /plugin marketplace add nasrat-v/claude-code-explain
-/plugin install claude-code-explain@claude-code-explain
+/plugin install eli5@claude-code-explain
 ```
+
+Invoke as `/eli5:explain` (plugin commands are namespaced `pluginName:command`). The standalone install in Option 1 keeps the bare `/explain` name.
 
 This is the cleanest path if you already use `/plugin` to manage other extensions — updates, uninstalls, and listing all flow through the same command.
 
@@ -87,7 +89,7 @@ You should get a 3–5 sentence answer with one analogy and zero jargon. If you 
 
 **Plugin install:**
 ```text
-/plugin uninstall claude-code-explain
+/plugin uninstall eli5
 ```
 
 **Standalone install:**
